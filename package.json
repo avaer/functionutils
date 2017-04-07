@@ -1,0 +1,7 @@
+{
+  "name": "functionutils",
+  "description": "Provides functional programming utilities.",
+  "version": "0.0.1",
+  "index": "index.js",
+  "dependencies": {}
+}
