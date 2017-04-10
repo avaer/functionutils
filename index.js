@@ -6,6 +6,15 @@ function sum(a) {
   return result;
 }
 
+function avg(a) {
+  if (a.length > 0) {
+    return sum(a) / a.length;
+  } else {
+    return 0;
+  }
+}
+
 module.exports = {
   sum,
+  avg,
 };
